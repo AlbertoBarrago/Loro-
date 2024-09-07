@@ -1,0 +1,10 @@
+{
+  "name": "Loro 2018 - Sorrentino",
+  "version": "1.0.0",
+  "description": "Happy watching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
